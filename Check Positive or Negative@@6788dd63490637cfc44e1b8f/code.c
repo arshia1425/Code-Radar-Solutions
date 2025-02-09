@@ -14,4 +14,5 @@ int main()
     {
         printf("Zero %d",a);
     }
+    return 0;
 }
