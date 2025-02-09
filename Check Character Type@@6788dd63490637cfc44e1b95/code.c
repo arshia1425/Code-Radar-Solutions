@@ -1,14 +1,30 @@
 #include <stdio.h>
 int main()
 {
-    int a;
-    scanf("%c",&a);
-    if(a="a","e","i","o","u")
-    {
-        printf("Vowel",a);
-    }
+    int f;
+    scanf("%c",&f);
+    if(f=='a')
+	{
+		printf("Vowel",f);
+	}
+	if(f=='e')
+	{
+		printf("Vowel",f);
+	}
+	if(f=='i')
+	{
+		printf("Vowel",f);
+	}
+	if(f=='o')
+	{
+		printf("Vowel",f);
+	}
+	if(f=='u')
+	{
+		printf("Vowel",f);
+	}
     else
     {
-        printf("Consonant",a);
+        printf("Consonant",f);
     }
 }
