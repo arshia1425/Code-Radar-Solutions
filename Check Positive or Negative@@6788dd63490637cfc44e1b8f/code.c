@@ -8,7 +8,7 @@ int main()
     }
     if(a<0)
     {
-        printf("Negative %d",a);
+        printf("Negative%d",a);
     }
     if(a=0)
     {
