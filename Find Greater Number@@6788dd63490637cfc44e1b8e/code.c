@@ -11,4 +11,5 @@ int main ()
 	{
 		printf(b);
 	}
+    return 0;
 }
