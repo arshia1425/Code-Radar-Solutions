@@ -11,7 +11,7 @@ int main()
     {
         printf("Prime",a);
     }
-    else if(a%2!=0 && a>1)
+    else if(a%2!=0 && a%3!=0)
     {
         printf("Prime",a);
     }
