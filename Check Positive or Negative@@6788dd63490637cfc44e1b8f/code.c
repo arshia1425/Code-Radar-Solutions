@@ -4,7 +4,7 @@ int main()
     int a;
     if(a>0)
     {
-        printf("Positive %d",a);
+        printf("Positive",a);
     }
     if(a<0)
     {
