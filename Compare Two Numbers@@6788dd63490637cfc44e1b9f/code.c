@@ -7,4 +7,12 @@ int main()
     {
         printf("Equal",a);
     }
+    if(a>b)
+    {
+        printf("First",a);
+    }
+    if(a<b)
+    {
+        printf("Second",b);
+    }
 }
