@@ -8,8 +8,6 @@ int main()
         for(j=1;j<=1;j++)
         {
             printf("*",i);
-            printf("*",j);
-            j--;
         }
         printf("\n");
     }
