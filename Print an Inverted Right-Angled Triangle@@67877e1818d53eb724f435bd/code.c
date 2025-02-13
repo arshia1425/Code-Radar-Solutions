@@ -9,6 +9,7 @@ int main()
         {
             printf("*",i);
             printf("*",j);
+            j=j-1;
         }
         printf("\n");
     }
